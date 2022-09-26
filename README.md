@@ -86,5 +86,10 @@ Here are some ideas to get you started:
  
 </span>
 <br/>
+## 📊 My Github Stats
+ <p align="center">
+   <a  href="https://github.com/hassenoueslati/github-readme-stats"><img alt="Majdi Abdelkader's Github Stats" src="https://github-readme-stats.vercel.app/api?username=majdiabdelkader&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a align="center" href="https://github.com/majdiabdelkader/github-readme-stats"><img alt="Majdi Abdelkader's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdiabdelkader&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 
