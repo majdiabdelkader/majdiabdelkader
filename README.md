@@ -94,5 +94,10 @@ Here are some ideas to get you started:
     <a align="center" href="https://github.com/majdiabdelkader/github-readme-stats"><img alt="Majdi Abdelkader's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdiabdelkader&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
+ ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hassenoueslati">
+</a>
+<a href="https://github.com/hassenoueslati?tab=followers"><img src="https://img.shields.io/github/followers/hassenoueslati?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
