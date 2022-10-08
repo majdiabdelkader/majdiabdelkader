@@ -96,3 +96,9 @@ Here are some ideas to get you started:
   <br/>
 
 
+ ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=majdiabdelkader">
+</a>
+<a href="https://github.com/majdiabdelkader?tab=followers"><img src="https://img.shields.io/github/followers/majdiabdelkader?label=Followers&style=social" alt="GitHub Badge"></a>
+
